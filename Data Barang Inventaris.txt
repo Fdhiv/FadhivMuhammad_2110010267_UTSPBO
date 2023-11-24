@@ -1,0 +1,7 @@
+Kode : 11
+nama : 1
+Warna : 1
+Harga : 1
+Keterangan : 1
+Lokasi: Banjarmasin
+Jenis: Jam Dinding
